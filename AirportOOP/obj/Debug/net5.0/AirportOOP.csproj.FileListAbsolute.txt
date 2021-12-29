@@ -1,0 +1,32 @@
+D:\Main_Academy\LabC#\done\AirportOOP\bin\Debug\net5.0\AirportOOP.exe
+D:\Main_Academy\LabC#\done\AirportOOP\bin\Debug\net5.0\AirportOOP.deps.json
+D:\Main_Academy\LabC#\done\AirportOOP\bin\Debug\net5.0\AirportOOP.runtimeconfig.json
+D:\Main_Academy\LabC#\done\AirportOOP\bin\Debug\net5.0\AirportOOP.runtimeconfig.dev.json
+D:\Main_Academy\LabC#\done\AirportOOP\bin\Debug\net5.0\AirportOOP.dll
+D:\Main_Academy\LabC#\done\AirportOOP\bin\Debug\net5.0\ref\AirportOOP.dll
+D:\Main_Academy\LabC#\done\AirportOOP\bin\Debug\net5.0\AirportOOP.pdb
+D:\Main_Academy\LabC#\done\AirportOOP\obj\Debug\net5.0\AirportOOP.csproj.AssemblyReference.cache
+D:\Main_Academy\LabC#\done\AirportOOP\obj\Debug\net5.0\AirportOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main_Academy\LabC#\done\AirportOOP\obj\Debug\net5.0\AirportOOP.AssemblyInfoInputs.cache
+D:\Main_Academy\LabC#\done\AirportOOP\obj\Debug\net5.0\AirportOOP.AssemblyInfo.cs
+D:\Main_Academy\LabC#\done\AirportOOP\obj\Debug\net5.0\AirportOOP.csproj.CoreCompileInputs.cache
+D:\Main_Academy\LabC#\done\AirportOOP\obj\Debug\net5.0\AirportOOP.dll
+D:\Main_Academy\LabC#\done\AirportOOP\obj\Debug\net5.0\ref\AirportOOP.dll
+D:\Main_Academy\LabC#\done\AirportOOP\obj\Debug\net5.0\AirportOOP.pdb
+D:\Main_Academy\LabC#\done\AirportOOP\obj\Debug\net5.0\AirportOOP.genruntimeconfig.cache
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\bin\Debug\net5.0\AirportOOP.exe
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\bin\Debug\net5.0\AirportOOP.deps.json
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\bin\Debug\net5.0\AirportOOP.runtimeconfig.json
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\bin\Debug\net5.0\AirportOOP.runtimeconfig.dev.json
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\bin\Debug\net5.0\AirportOOP.dll
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\bin\Debug\net5.0\ref\AirportOOP.dll
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\bin\Debug\net5.0\AirportOOP.pdb
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\obj\Debug\net5.0\AirportOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\obj\Debug\net5.0\AirportOOP.AssemblyInfoInputs.cache
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\obj\Debug\net5.0\AirportOOP.AssemblyInfo.cs
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\obj\Debug\net5.0\AirportOOP.csproj.CoreCompileInputs.cache
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\obj\Debug\net5.0\AirportOOP.dll
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\obj\Debug\net5.0\ref\AirportOOP.dll
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\obj\Debug\net5.0\AirportOOP.pdb
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\obj\Debug\net5.0\AirportOOP.genruntimeconfig.cache
+D:\Main_Academy\c#\Лекция18(Airport Class)\AirportOOP\obj\Debug\net5.0\AirportOOP.csproj.AssemblyReference.cache
